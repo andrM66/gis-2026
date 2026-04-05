@@ -1,0 +1,17 @@
+<csw>
+  <id>CSWInfoImpl-268d5ab1:19d5d5a01d4:-3b41</id>
+  <workspace>
+    <id>WorkspaceInfoImpl-268d5ab1:19d5d5a01d4:-7ffc</id>
+  </workspace>
+  <enabled>true</enabled>
+  <name>CSW</name>
+  <versions>
+    <org.geotools.util.Version>
+      <version>2.0.2</version>
+    </org.geotools.util.Version>
+  </versions>
+  <citeCompliant>false</citeCompliant>
+  <schemaBaseURL>http://schemas.opengis.net</schemaBaseURL>
+  <verbose>false</verbose>
+  <canonicalSchemaLocation>false</canonicalSchemaLocation>
+</csw>
