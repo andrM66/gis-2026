@@ -13,6 +13,7 @@ geoserver_data//.log
 geoserver_data/gwc/*.bak
 geoserver_data/gwc/diskquota_page_store_hsql/*.data
 geoserver_data/gwc/diskquota_page_store_hsql/*.log
+geoserver_data/gwc/diskquota_page_store_hsql/diskquota.log
 geoserver_data/gwc/diskquota_page_store_hsql/*.lck
 geoserver_data/tomcat_pass.txt
 postgres_data/
