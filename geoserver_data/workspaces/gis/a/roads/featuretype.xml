@@ -1,5 +1,5 @@
 <featureType>
-  <id>FeatureTypeInfoImpl-268d5ab1:19d5d5a01d4:-380a</id>
+  <id>FeatureTypeInfoImpl--6cd8638b:19d90126dee:-7ff7</id>
   <name>roads</name>
   <nativeName>roads</nativeName>
   <namespace>
@@ -21,17 +21,17 @@
   AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
   <srs>EPSG:4326</srs>
   <nativeBoundingBox>
-    <minx>49.2183854</minx>
-    <maxx>49.3300027</maxx>
-    <miny>53.5785788</miny>
-    <maxy>53.6029121</maxy>
+    <minx>49.2183837890625</minx>
+    <maxx>49.33000564575195</maxx>
+    <miny>53.578575134277344</miny>
+    <maxy>53.60291290283203</maxy>
     <crs>EPSG:4326</crs>
   </nativeBoundingBox>
   <latLonBoundingBox>
-    <minx>49.2183854</minx>
-    <maxx>49.3300027</maxx>
-    <miny>53.5785788</miny>
-    <maxy>53.6029121</maxy>
+    <minx>49.2183837890625</minx>
+    <maxx>49.33000564575195</maxx>
+    <miny>53.578575134277344</miny>
+    <maxy>53.60291290283203</maxy>
     <crs>EPSG:4326</crs>
   </latLonBoundingBox>
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>

@@ -1,5 +1,5 @@
 <featureType>
-  <id>FeatureTypeInfoImpl-268d5ab1:19d5d5a01d4:-380e</id>
+  <id>FeatureTypeInfoImpl--6cd8638b:19d90126dee:-7ffb</id>
   <name>buildings</name>
   <nativeName>buildings</nativeName>
   <namespace>
@@ -21,17 +21,17 @@
   AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
   <srs>EPSG:4326</srs>
   <nativeBoundingBox>
-    <minx>49.276153564453125</minx>
-    <maxx>49.29716491699219</maxx>
-    <miny>53.59157180786133</miny>
-    <maxy>53.60149002075195</maxy>
+    <minx>49.2822151184082</minx>
+    <maxx>49.28440856933594</maxx>
+    <miny>53.59954071044922</miny>
+    <maxy>53.60108184814453</maxy>
     <crs>EPSG:4326</crs>
   </nativeBoundingBox>
   <latLonBoundingBox>
-    <minx>49.276153564453125</minx>
-    <maxx>49.29716491699219</maxx>
-    <miny>53.59157180786133</miny>
-    <maxy>53.60149002075195</maxy>
+    <minx>49.2822151184082</minx>
+    <maxx>49.28440856933594</maxx>
+    <miny>53.59954071044922</miny>
+    <maxy>53.60108184814453</maxy>
     <crs>EPSG:4326</crs>
   </latLonBoundingBox>
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>

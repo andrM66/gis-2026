@@ -28,7 +28,7 @@ const map = new Map({
     })
   ],
   view: new View({
-    center: fromLonLat([49.33, 53.58]),
+    center: fromLonLat([49.2826899, 53.6001943]),
     zoom: 14
   })
 });

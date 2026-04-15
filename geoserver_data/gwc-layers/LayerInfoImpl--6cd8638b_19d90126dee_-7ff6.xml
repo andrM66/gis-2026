@@ -1,8 +1,8 @@
 <GeoServerTileLayer>
-  <id>LayerInfoImpl-268d5ab1:19d5d5a01d4:-380d</id>
+  <id>LayerInfoImpl--6cd8638b:19d90126dee:-7ff6</id>
   <enabled>true</enabled>
   <inMemoryCached>true</inMemoryCached>
-  <name>gis:buildings</name>
+  <name>gis:roads</name>
   <mimeFormats>
     <string>image/png</string>
     <string>image/jpeg</string>
@@ -26,7 +26,7 @@
       <key>STYLES</key>
       <defaultValue></defaultValue>
       <availableStyles class="sorted-set"/>
-      <defaultStyle>polygon</defaultStyle>
+      <defaultStyle>line</defaultStyle>
     </styleParameterFilter>
   </parameterFilters>
   <gutter>0</gutter>
